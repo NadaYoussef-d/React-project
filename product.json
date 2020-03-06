@@ -1,0 +1,277 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "data": [
+        {
+          "name": "camera11",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 200,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 2,
+      "data": [
+        {
+          "name": "phone",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 300,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 3,
+      "data": [
+        {
+          "name": "mobile",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 1000,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 4,
+      "data": [
+        {
+          "name": "mouse",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 200,
+      "discount": 20,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 5,
+      "data": [
+        {
+          "name": "Dress",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 200,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 2
+    },
+    {
+      "id": 6,
+      "data": [
+        {
+          "name": "laptop",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 7000,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 7,
+      "data": [
+        {
+          "name": "printer",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 1500,
+      "discount": 15,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 1
+    },
+    {
+      "id": 8,
+      "data": [
+        {
+          "name": "bottle",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 20,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 3
+    },
+    {
+      "id": 9,
+      "data": [
+        {
+          "name": "scarv",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 200,
+      "discount": 25,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 2
+    },
+    {
+      "id": 10,
+      "data": [
+        {
+          "name": "skirt",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 300,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 2
+    },
+    {
+      "id": 11,
+      "data": [
+        {
+          "name": "table",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 1000,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 3
+    },
+    {
+      "id": 12,
+      "data": [
+        {
+          "name": "chair",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 20,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 3
+    },
+    {
+      "id": 13,
+      "data": [
+        {
+          "name": "t-shirt",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 200,
+      "discount": 15,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 4
+    },
+    {
+      "id": 14,
+      "data": [
+        {
+          "name": "jeans",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 7000,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 2
+    },
+    {
+      "id": 15,
+      "data": [
+        {
+          "name": "shoes",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 1500,
+      "discount": 10,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 4
+    },
+    {
+      "id": 16,
+      "data": [
+        {
+          "name": "bottle2",
+          "discription": "weeeeeee",
+          "lang": {
+            "id": 1,
+            "name": "eng"
+          }
+        }
+      ],
+      "price": 20,
+      "imgsUrl": ["assets/images/products/product-grey-1.jpg"],
+      "catId": 3
+    }
+  ],
+
+  "category": [
+    { "id": 1, "name": "Electronics" },
+    { "id": 2, "name": "Women's Fashion" },
+    { "id": 3, "name": "Home $ Kitchen" },
+    { "id": 4, "name": "Men's Fashion" }
+  ]
+}
